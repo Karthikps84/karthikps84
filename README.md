@@ -136,6 +136,6 @@ Git · Linux · OpenCV · Scikit-learn · Matplotlib · PowerBI
 
 *Open to Computer Vision, ML Engineering, Robotics Perception, and Agentic AI roles in Germany*
 
-`Available from April 2026`
+`Available from October 2026`
 
 </div>
