@@ -16,6 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-Karthikps174%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:Karthikps174@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Mannheim%2C%20Germany-0d1117?style=flat-square&logo=googlemaps&logoColor=4285F4&labelColor=161b22)](https://www.google.com/maps/place/Mannheim)
 [![Oracle](https://img.shields.io/badge/Oracle%20OCI-Data%20Science%20Professional-0d1117?style=flat-square&logo=oracle&logoColor=F80000&labelColor=161b22)](https://www.oracle.com/cloud/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-karthikps.online-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4&labelColor=161b22)](https://www.karthikps.online/)
 
 </div>
 
@@ -137,5 +138,7 @@ Git · Linux · OpenCV · Scikit-learn · Matplotlib · PowerBI
 *Open to Computer Vision, ML Engineering, Robotics Perception, and Agentic AI roles in Germany*
 
 `Available from October 2026`
+
+➡️ [Portfolio](https://www.karthikps.online/)
 
 </div>
